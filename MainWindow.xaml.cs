@@ -60,7 +60,7 @@ namespace Kalkulator
 
             if (op == "+")
             {
-                tb.Text = "" + (op1 + op2);//ez
+                tb.Text = "" + (op1 + op2);
             }
             else if (op == "-")
             {
